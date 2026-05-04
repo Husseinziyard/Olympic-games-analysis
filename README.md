@@ -71,7 +71,3 @@ olympic-games-analysis/
 - [Wikipedia – All-time Olympic Games Medal Table](https://en.wikipedia.org/wiki/All-time_Olympic_Games_medal_table)
 
 ---
-
-## 👥 Authors
-
-- General Sir John Kotelawala Defence University — Data Analytics Project
